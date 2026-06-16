@@ -1,17 +1,14 @@
-## 👋 I build tools for focus in a distracted world
+## 👋 Hi, I'm jayjoolee
 
-Attention is the scarce resource of our time — most of us
-struggle to focus, finish, and actually absorb what we read.
-I build small tools that make learning and focus easier.
+I build small, open-source AI tools — and share them in public.
 
-🧠 **Currently building**
-[Dopamind](https://github.com/jayjoolee/dopamind) — turns any text
-into focused, bite-sized learning chunks for distracted brains.
-Open source · bring your own API key.
+🛠️ **Building**
+- [claude-voice-memo](https://github.com/jayjoolee/claude-voice-memo) — local, private voice notes → clean transcript + key briefing (Claude Code + on-device Whisper)
+- [dopamind](https://github.com/jayjoolee/dopamind) — turn any content into focused, bite-sized learning chunks · open source, bring your own API key
 
-🛠️ **Into** — AI · learning tools · building in public
+📒 **Learning log** → [ai-notes](https://github.com/jayjoolee/ai-notes) — teaching myself AI by building things
 
-📒 **Learning log** → [ai-notes](https://github.com/jayjoolee/ai-notes) — what I'm figuring out about AI, one note at a time
+🌱 **Into** — AI · learning & productivity tools · building in the open
 
 ---
 *Building in the open. Slowly — but it adds up.*
